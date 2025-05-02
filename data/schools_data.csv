@@ -1,0 +1,189 @@
+School.Number,School Name,Address,Longitude,Latitude,GradeBand,GradesServed
+4,Steuart Hill Academic Academy,"30 S Gilmor St, Baltimore, MD, 21223",-76.642356,39.28708,E,PK - 5
+5,Langston Hughes Elementary,"5011 Arbutus Ave, Baltimore, MD, 21215",-76.679991,39.342083,E,PK - 5
+7,Cecil Elementary,"2000 Cecil Ave, Baltimore, MD, 21218",-76.605442,39.3127,E,PK - 5
+8,City Springs Elementary/Middle,"100 S Caroline St, Baltimore, MD, 21231",-76.597124,39.290253,EM,PK - 8
+10,James McHenry Elementary/Middle,"31 S Schroeder St, Baltimore, MD, 21223",-76.633671,39.287579,EM,PK - 8
+11,Eutaw-Marshburn Elementary,"1624 Eutaw Pl, Baltimore, MD, 21217",-76.629226,39.305966,E,PK - 5
+12,Lakeland Elementary/Middle,"2921 Stranden Rd, Baltimore, MD, 21230",-76.644967,39.254289,EM,PK - 8
+13,Tench Tilghman Elementary/Middle,"600 N Patterson Park Ave, Baltimore, MD, 21205",-76.585124,39.297704,EM,PK - 8
+15,Stadium School,"1300 Gorsuch Ave, Baltimore, MD, 21218",-76.600378,39.325025,M,6 - 8
+16,Johnston Square Elementary,"1101 Valley St, Baltimore, MD, 21202",-76.604959,39.302894,E,PK - 5
+21,Hilton Elementary,"3301 Carlisle Ave, Baltimore, MD, 21216",-76.673068,39.319556,E,PK - 5
+22,George Washington Elementary,"800 Scott St, Baltimore, MD, 21230",-76.628561,39.281189,E,PK - 5
+23,Wolfe Street Academy,"245 S Wolfe St, Baltimore, MD, 21231",-76.590012,39.288712,E,PK - 5
+24,Westside Elementary,"2235 N Fulton Ave, Baltimore, MD, 21217",-76.645157,39.314233,E,PK - 5
+25,Dr. Rayner Browne Elementary/Middle,"1000 N Montford Ave, Baltimore, MD, 21213",-76.583923,39.302439,EM,PK - 8
+27,Commodore John Rodgers Elementary/Middle,"100 N Chester St, Baltimore, MD, 21231",-76.587471,39.292928,EM,PK - 8
+28,William Pinderhughes Elementary/Middle,"701 Gold St, Baltimore, MD, 21217",-76.640507,39.306549,EM,PK - 8
+29,Matthew A. Henson Elementary,"1600 N Payson St, Baltimore, MD, 21217",-76.649861,39.306762,E,PK - 5
+31,Coldstream Park Elementary/Middle,"1400 Exeter Hall Ave, Baltimore, MD, 21218",-76.601702,39.320357,EM,PK - 8
+34,Charles Carroll Barrister Elementary,"1327 Washington Blvd, Baltimore, MD, 21230",-76.635339,39.28025,E,PK - 5
+35,Harlem Park Elementary/Middle,"1401 W Lafayette Ave, Baltimore, MD, 21217",-76.640263,39.298801,EM,PK - 8
+37,Harford Heights Elementary,"1919 N Broadway, Baltimore, MD, 21213",-76.595076,39.312466,E,PK - 5
+39,"Dallas F. Nicholas, Sr. Elementary","201 E 21st St, Baltimore, MD, 21218",-76.614086,39.31325,E,PK - 5
+44,Montebello Elementary/Middle,"2040 E 32nd St, Baltimore, MD, 21218",-76.586079,39.327403,EM,PK - 8
+45,Federal Hill Preparatory Academy,"1040 William St, Baltimore, MD, 21230",-76.610668,39.277662,E,PK - 5
+47,Hampstead Hill Academy,"500 S Linwood Ave, Baltimore, MD, 21224",-76.575923,39.286372,EM,6 - 8
+49,Northeast Middle,"5001 Moravia Rd, Baltimore, MD, 21206",-76.550932,39.324559,M,PK - 8
+50,Abbottston Elementary,"1300 Gorsuch Ave, Baltimore, MD, 21218",-76.600378,39.325025,E,PK - 5
+51,Waverly Elementary/Middle,"3400 Ellerslie Ave, Baltimore, MD, 21218",-76.603672,39.330029,EM,PK - 8
+53,Margaret Brent Elementary/Middle,"100 E 26th St, Baltimore, MD, 21218",-76.615582,39.31947,EM,PK - 8
+54,Barclay Elementary/Middle,"2900 Barclay St, Baltimore, MD, 21218",-76.611105,39.323546,EM,PK - 8
+55,Hampden Elementary/Middle,"3608 Chestnut Ave, Baltimore, MD, 21211",-76.629462,39.331644,EM,PK - 8
+58,Dr..than A. Pitts-Ashburton Elementary/Middle,"3935 Hilton Rd, Baltimore, MD, 21215",-76.66834,39.330413,EM,PK - 8
+60,Gwynns Falls Elementary,"2700 Gwynns Falls Pky, Baltimore, MD, 21216",-76.66186,39.315181,E,PK - 5
+61,John Eager Howard Elementary,"2011 Linden Ave, Baltimore, MD, 21217",-76.632734,39.310754,E,PK - 5
+62,Edgecombe Circle Elementary/Middle,"2835 Virginia Ave, Baltimore, MD, 21215",-76.662645,39.345085,EM,PK - 8
+63,Rosemont Elementary/Middle,"2777 Presstman St, Baltimore, MD, 21216",-76.663621,39.304769,EM,PK - 8
+64,Liberty Elementary,"3901 Maine Ave, Gwynn Oak, MD, 21207",-76.68291,39.326077,E,PK - 5
+66,Mount Royal Elementary/Middle,"121 McMechen St, Baltimore, MD, 21217",-76.625217,39.309022,EM,K - 8
+67,Edgewood Elementary,"1900 Edgewood St, Baltimore, MD, 21216",-76.675965,39.309008,E,PK - 5
+73,Sarah M. Roach Elementary,"3434 Old Frederick Rd, Baltimore, MD, 21229",-76.674521,39.282642,E,PK - 5
+75,Calverton Elementary/Middle,"1100 Whitmore Ave, Baltimore, MD, 21216",-76.658412,39.300536,EM,PK - 8
+76,Francis Scott Key Elementary/Middle,"1425 E Fort Ave, Baltimore, MD, 21230",-76.594286,39.269228,EM,PK - 8
+81,North Bend Elementary/Middle,"181 N Bend Rd, Baltimore, MD, 21229",-76.705555,39.282682,EM,PK - 8
+83,William Paca Elementary,"200 N Lakewood Ave, Baltimore, MD, 21224",-76.579232,39.294524,E,PK - 5
+84,Thomas Johnson Elementary/Middle,"100 E Heath St, Baltimore, MD, 21230",-76.611365,39.270729,EM,PK - 8
+85,Fort Worthington Elementary,"2701 E Oliver St, Baltimore, MD, 21213",-76.579992,39.307882,E,1 - 5
+86,Lakewood Elementary,"2625 E Federal St, Baltimore, MD, 21213",-76.581269,39.308965,E,PK - K
+87,Windsor Hills Elementary/Middle,"4001 Alto Rd, Baltimore, MD, 21216",-76.682655,39.317147,EM,PK - 8
+88,Lyndhurst Elementary,"621 Wildwood Pky, Baltimore, MD, 21229",-76.683738,39.294094,E,PK - 5
+89,Rognel Heights Elementary/Middle,"4300 Sidehill Rd, Baltimore, MD, 21229",-76.691503,39.298411,EM,PK - 8
+95,Franklin Square Elementary/Middle,"1400 W Lexington St, Baltimore, MD, 21223",-76.639757,39.290866,EM,PK - 8
+97,Collington Square Elementary/Middle,"1409 N Collington Ave, Baltimore, MD, 21213",-76.587199,39.307266,EM,PK - 8
+98,Samuel F. B. Morse Elementary,"424 S Pulaski St, Baltimore, MD, 21223",-76.649887,39.282532,E,PK - 5
+105,Moravia Park Elementary,"6201 Frankford Ave, Baltimore, MD, 21206",-76.551916,39.338533,E,PK - 5
+107,Gilmor Elementary,"1311 N Gilmor St, Baltimore, MD, 21217",-76.643309,39.30335,E,PK - 5
+122,The Historic Samuel Coleridge-Taylor Elementary,"507 W Preston St, Baltimore, MD, 21201",-76.624404,39.300581,E,PK - 5
+124,Bay-Brook Elementary/Middle,"4301 10th St, Brooklyn, MD, 21225",-76.599732,39.226577,EM,PK - 8
+125,Furman Templeton Preparatory Academy,"1200 Pennsylvania Ave, Baltimore, MD, 21217",-76.629936,39.299376,E,PK - 5
+130,Booker T. Washington Middle,"1301 McCulloh St, Baltimore, MD, 21217",-76.627915,39.302488,M,6 - 8
+134,Walter P. Carter Elementary/Middle,"820 E 43rd St, Baltimore, MD, 21212",-76.604436,39.342598,EM,PK - 8
+142,Robert W. Coleman Elementary,"2400 Windsor Ave, Baltimore, MD, 21216",-76.655833,39.312214,E,PK - 5
+144,James Mosher Elementary,"2400 W Mosher St, Baltimore, MD, 21216",-76.655213,39.299802,E,PK - 5
+145,Alexander Hamilton Elementary,"800 Poplar Grove St, Baltimore, MD, 21216",-76.665246,39.297373,E,PK - 5
+150,Mary Ann Winterling Elementary at Bentalou,"220 N Bentalou St, Baltimore, MD, 21223",-76.653209,39.291097,E,PK - 5
+159,Cherry Hill Elementary/Middle,"801 Bridgeview Rd, Brooklyn, MD, 21225",-76.623433,39.248379,EM,PK - 8
+160,Dr. Carter Godwin Woodson Elementary/Middle,"2501 Seabury Rd, Brooklyn, MD, 21225",-76.622824,39.252035,EM,PK - 8
+164,Arundel Elementary/Middle,"2400 Round Rd, Brooklyn, MD, 21225",-76.626534,39.252659,EM,PK - 8
+177,George W. F. McMechen High,"4411 Garrison Blvd, Baltimore, MD, 21215",-76.6848,39.33673,H,9 - 12
+178,Excel Academy at Francis M. Wood High,"1001 W Saratoga St, Baltimore, MD, 21223",-76.634101,39.292375,H,6-12
+201,Dickey Hill Elementary/Middle,"5025 Dickey Hill Rd, Gwynn Oak, MD, 21207",-76.703476,39.31159,EM,PK - 8
+203,Maree G. Farring Elementary/Middle,"300 Pontiac Ave, Brooklyn, MD, 21225",-76.60756,39.236661,EM,PK - 8
+204,Mary E. Rodman Elementary,"3510 W Mulberry St, Baltimore, MD, 21229",-76.675792,39.292167,E,PK - 5
+205,Woodhome Elementary/Middle,"7300 Moyer Ave, Parkville, MD, 21234",-76.54058,39.366301,EM,PK - 8
+206,Furley Elementary,"4633 Furley Ave, Baltimore, MD, 21206",-76.553815,39.329705,E,K - 5
+207,Curtis Bay Elementary/Middle,"4301 W Bay Ave, Brooklyn, MD, 21225",-76.593476,39.224892,EM,PK - 8
+210,Hazelwood Elementary/Middle,"4517 Hazelwood Ave, Baltimore, MD, 21206",-76.54106,39.339302,EM,K - 8
+211,Gardenville Elementary,"5300 Belair Rd, Baltimore, MD, 21206",-76.552476,39.337738,E,K - 5
+212,Garrett Heights Elementary/Middle,"2800 Ailsa Ave, Baltimore, MD, 21214",-76.570518,39.34948,EM,PK - 8
+213,Govans Elementary,"5801 York Rd, Baltimore, MD, 21212",-76.609766,39.360422,E,PK - 5
+214,Guilford Elementary/Middle,"4520 York Rd, Baltimore, MD, 21212",-76.609616,39.34411,EM,PK - 8
+215,Highlandtown Elementary/Middle #215,"3223 E Pratt St, Baltimore, MD, 21224",-76.570788,39.290225,EM,PK - 8
+217,Belmont Elementary,"1406 N Ellamont St, Baltimore, MD, 21216",-76.670771,39.304036,E,PK - 5
+219,Yorkwood Elementary,"5931 Yorkwood Rd, Baltimore, MD, 21239",-76.584036,39.362865,E,PK - 5
+220,Morrell Park Elementary/Middle,"2601 Tolley St, Baltimore, MD, 21230",-76.65135,39.2641,EM,PK - 8
+221,The Mount Washington School,"1801 Sulgrave Ave, Baltimore, MD, 21209",-76.65404,39.365863,EM,K - 8
+223,Pimlico Elementary/Middle,"4849 Pimlico Rd, Baltimore, MD, 21215",-76.668989,39.348233,EM,PK - 8
+224,Grove Park Elementary/Middle,"5545 Kennison Ave, Baltimore, MD, 21215",-76.699725,39.342484,EM,PK - 8
+225,Westport Academy,"2401 Nevada St, Baltimore, MD, 21230",-76.638091,39.263008,EM,PK - 8
+226,Violetville Elementary/Middle,"1207 Pine Heights Ave, Baltimore, MD, 21229",-76.674778,39.268108,EM,PK - 8
+228,John Ruhrah Elementary/Middle,"701 Rappolla St, Baltimore, MD, 21224",-76.552738,39.28519,EM,PK - 8
+229,Holabird Elementary/Middle,"1500 Imla St, Baltimore, MD, 21224",-76.538054,39.276629,EM,PK - 8
+231,Brehms Lane Elementary,"3536 Brehms Ln, Baltimore, MD, 21213",-76.565344,39.321278,E,PK - 5
+232,Thomas Jefferson Elementary/Middle,"605 Dryden Dr, Baltimore, MD, 21229",-76.699356,39.295251,EM,PK - 8
+233,Roland Park Elementary/Middle,"5207 Roland Ave, Baltimore, MD, 21210",-76.63494,39.358288,EM,PK - 8
+234,Arlington Elementary/Middle,"3705 W Rogers Ave, Baltimore, MD, 21215",-76.684915,39.350855,EM,PK - 8
+235,Glenmount Elementary/Middle,"6211 Walther Ave, Baltimore, MD, 21206",-76.543184,39.351544,EM,PK - 8
+236,Hamilton Elementary/Middle,"6101 Old Harford Rd, Baltimore, MD, 21214",-76.558331,39.359101,EM,PK - 8
+237,Highlandtown Elementary/Middle #237,"231 Eaton St, Baltimore, MD, 21224",-76.565376,39.290877,EM,PK - 8
+239,Benjamin Franklin High at Masonville Cove,"1201 Cambria St, Brooklyn, MD, 21225",-76.593307,39.232732,H,9 - 12
+240,Graceland Park/O'Donnell Heights Elementary/Middle,"6300 Odonnell St, Baltimore, MD, 21224",-76.535507,39.282059,EM,PK - 8
+241,Fallstaff Elementary/Middle,"3801 Fallstaff Rd, Baltimore, MD, 21215",-76.7036,39.364385,EM,PK - 8
+242,Northwood Elementary,"5201 Loch Raven Blvd, Baltimore, MD, 21239",-76.590429,39.351979,E,PK - 5
+243,Armistead Gardens Elementary/Middle,"5001 E Eager St, Baltimore, MD, 21205",-76.554501,39.303991,EM,PK - 8
+245,Leith Walk Elementary/Middle,"1235 Sherwood Ave, Baltimore, MD, 21239",-76.59179,39.36596,EM,PK - 7
+246,Beechfield Elementary/Middle,"301 S Beechfield Ave, Baltimore, MD, 21229",-76.69369,39.28158,EM,PK - 8
+247,Cross Country Elementary/Middle,"6100 Cross Country Blvd, Baltimore, MD, 21215",-76.696168,39.364813,EM,PK - 8
+248,Sinclair Lane Elementary,"3880 Sinclair Ln, Baltimore, MD, 21213",-76.561365,39.31416,E,PK - 5
+249,Medfield Heights Elementary,"4300 Bucha.n Ave, Baltimore, MD, 21211",-76.64192,39.340454,E,PK - 5
+250,"Dr. Ber.rd Harris, Sr. Elementary","1400 N Caroline St, Baltimore, MD, 21213",-76.598247,39.306448,E,PK - 5
+251,Callaway Elementary,"3701 Fernhill Ave, Baltimore, MD, 21215",-76.67783,39.336974,E,PK - 5
+254,"Dr. Martin Luther King, Jr. Elementary/Middle","3750 Greenspring Ave, Baltimore, MD, 21211",-76.655546,39.332726,EM,PK - 8
+256,Calvin M. Rodwell Elementary,"3501 Hillsdale Rd, Gwynn Oak, MD, 21207",-76.69498,39.329808,E,PK - 5
+260,Frederick Elementary,"2501 Frederick Ave, Baltimore, MD, 21223",-76.65592,39.283655,E,PK - 5
+261,Lockerman Bundy Elementary,"301 N Pulaski St, Baltimore, MD, 21223",-76.65031,39.292206,E,PK - 5
+262,Empowerment Academy,"851 Braddish Ave, Baltimore, MD, 21216",-76.659627,39.297609,EM,PK - 8
+301,William S. Baer School,"2001 N Warwick Ave, Baltimore, MD, 21216",-76.657218,39.311593,EM,PK - 12
+303,Home and Hospital Program,"6900 Park Heights Ave, Baltimore, MD, 21215",-76.703124,39.364883,EM,K-12
+307,Claremont School,"5301 Erdman Ave, Baltimore, MD, 21205",-76.554164,39.303161,H,9 - 12
+313,Lois T. Murray Elementary/Middle,"1600 Arlington Ave, Baltimore, MD, 21239",-76.588566,39.346663,EM,PK - 8
+314,Sharp-Leadenhall Elementary,"150 W West St, Baltimore, MD, 21230",-76.61854,39.276092,E,K - 5
+321,Midtown Academy,"1398 W Mt Royal Ave, Baltimore, MD, 21217",-76.621742,39.308024,EM,K - 8
+322,New Song Academy,"1530 Presstman St, Baltimore, MD, 21217",-76.642862,39.305309,EM,PK - 8
+323,The Crossroads School,"1601 E Lombard St, Baltimore, MD, 21231",-76.595608,39.290296,M,6 - 8
+325,ConneXions: A Community Based Arts School,"2801 N Dukeland St, Baltimore, MD, 21216",-76.664882,39.319225,MH,6 - 12
+326,City Neighbors Charter,"4301 Raspe Ave, Baltimore, MD, 21206",-76.535032,39.349155,EM,K - 8
+327,Patterson Park Public Charter,"27 N Lakewood Ave, Baltimore, MD, 21224",-76.578908,39.29242,EM,K - 8
+328,Southwest Baltimore Charter,"1300 Herkimer St, Baltimore, MD, 21223",-76.636993,39.282067,EM,K - 8
+329,Inner Harbor East Academy,"200 N Central Ave, Baltimore, MD, 21202",-76.599681,39.293302,EM,PK - 8
+330,Northwood Appold Community Academy,"4417 Loch Raven Blvd, Baltimore, MD, 21218",-76.59207,39.344626,E,K - 5
+331,Maryland Academy of Technology and Health Sciences,"2801 N Dukeland St, Baltimore, MD, 21216",-76.664882,39.319225,MH,6 - 12
+332,The Green School,"2851 Kentucky Ave, Baltimore, MD, 21213",-76.57234,39.324905,E,K - 5
+333,Independence School Local I,"1250 W 36th St, Baltimore, MD, 21211",-76.635999,39.330647,H,9 - 12
+335,Baltimore Inter.tio.l Academy,"4410 Frankford Ave, Baltimore, MD, 21206",-76.540441,39.319438,EM,K - 8
+336,Baltimore Montessori Public Charter Middle School,"1600 Guilford Ave, Baltimore, MD, 21202",-76.612312,39.307839,E,PK - 5
+337,Afya Public Charter,"2800 Brendan Ave, Baltimore, MD, 21213",-76.573467,39.324671,M,6 - 8
+339,Friendship Academy of Engineering and Technology,"2500 E Northern Pky, Baltimore, MD, 21214",-76.562517,39.366917,MH,6 - 12
+341,The Reach! Partnership School,"2801 Saint Lo Dr, Baltimore, MD, 21213",-76.587913,39.31815,MH,6 - 12
+342,KASA (Knowledge and Success Academy),"2000 Edgewood St, Baltimore, MD, 21216",-76.67604,39.310037,MH,6 - 12
+345,New Hope Academy,"900 Druid Hill Ave, Baltimore, MD, 21201",-76.624306,39.298427,MH,6 - 12
+346,City Neighbors Hamilton,"5609 Sefton Ave, Baltimore, MD, 21214",-76.555591,39.350516,EM,K - 8
+347,KIPP Harmony Academy,"4701 Greenspring Ave, Baltimore, MD, 21209",-76.659288,39.348813,E,K - 8
+348,Baltimore Leadership School for Young Women,"128 W Franklin St, Baltimore, MD, 21201",-76.617354,39.295081,MH,6 - 11
+349,.CA Freedom and Democracy Academy II,"2500 E Northern Pky, Baltimore, MD, 21214",-76.562517,39.366917,MH,6 - 11
+364,Bluford Drew Jemison STEM Academy West,"2000 Edgewood St, Baltimore, MD, 21216",-76.67604,39.310037,MH,6 - 12
+367,Baltimore Community High,"6820 Fait Ave, Baltimore, MD, 21224",-76.533222,39.28476,MH,8 - 12
+368,Elmer A. Henderson: A Johns Hopkins Partnership School,"2100 Ashland Ave, Baltimore, MD, 21205",-76.587947,39.300871,EM,K - 8
+373,Tunbridge Public Charter School,"5504 York Rd, Baltimore, MD, 21212",-76.609948,39.357191,EM,PK - 7
+374,Vanguard Collegiate Middle,"5000 Truesdale Ave, Baltimore, MD, 21206",-76.546386,39.317964,M,6 - 8
+376,City Neighbors High,"5609 Sefton Ave, Baltimore, MD, 21214",-76.555591,39.350516,H,9 - 12
+377,Green Street Academy,125 N. Hilton Street,-76.672431,39.287849,MH,6 - 10
+378,Baltimore I.T. Academy,"900 Woodbourne Ave, Baltimore, MD, 21212",-76.602223,39.354719,M,6 - 8
+379,Roots and Branches School,"1807 Harlem Ave, Baltimore, MD, 21217",-76.646587,39.29626,E,K - 5
+381,Mo.rch Academy Public Charter,"2525 Kirk Ave, Baltimore, MD, 21218",-76.601268,39.319176,EM,K - 7
+382,Baltimore Design School,"1500 Barclay St, Baltimore, MD, 21202",-76.610851,39.306926,MH,6 - 10
+383,Baltimore Montessori Public Charter,"1600 Guilford Ave, Baltimore, MD, 21202",-76.612312,39.307839,M,6 - 8
+384,Creative City Public Charter,"2810 Shirley Ave, Baltimore, MD, 21215",-76.66426,39.333859,E,K - 3
+400,Edmondson-Westside High,"501 N Athol Ave, Baltimore, MD, 21229",-76.68933,39.292116,H,9 - 12
+401,Northwestern High,"6900 Park Heights Ave, Baltimore, MD, 21215",-76.703124,39.364883,H,9 - 12
+403,Baltimore Polytechnic Institute,"1400 W Cold Spring Ln, Baltimore, MD, 21209",-76.642672,39.344597,H,9 - 12
+405,Patterson High,"100 Kane St, Baltimore, MD, 21224",-76.534948,39.293535,H,9 - 12
+406,Forest Park High,"3701 Eldorado Ave, Gwynn Oak, MD, 21207",-76.690512,39.331709,H,9 - 12
+407,Western High,"4600 Falls Rd, Baltimore, MD, 21209",-76.641422,39.34658,H,9 - 12
+410,Mergenthaler Vocatio.l-Technical High,"3500 Hillen Rd, Baltimore, MD, 21218",-76.588605,39.335781,H,9 - 12
+413,Achievement Academy at Harbor City High,"2555 Harford Rd, Baltimore, MD, 21218",-76.593004,39.319033,H,9 - 12
+414,Paul Laurence Dunbar High,"1400 Orleans St, Baltimore, MD, 21231",-76.599747,39.294997,H,9 - 12
+415,Baltimore School for the Arts,"712 Cathedral St, Baltimore, MD, 21201",-76.617255,39.298229,H,9 - 12
+416,Digital Harbor High,"1100 Covington St, Baltimore, MD, 21230",-76.606941,39.277648,H,9 - 12
+418,W.E.B. DuBois High,"2201 Pinewood Ave, Baltimore, MD, 21214",-76.570771,39.36645,H,9 - 12
+419,Regi.ld F. Lewis High,"6401 Pioneer Dr, Baltimore, MD, 21214",-76.57195,39.365029,H,9 - 12
+421,.tio.l Academy Foundation,"540 N Caroline St, Baltimore, MD, 21205",-76.597533,39.296668,MH,6 - 12
+422,New Era Academy,"2700 Seamon Ave, Brooklyn, MD, 21225",-76.619651,39.253712,MH,6 - 12
+425,Heritage High,"2801 Saint Lo Dr, Baltimore, MD, 21213",-76.587913,39.31815,H,"PK, 9 - 12"
+427,Academy for College and Career Exploration,"1300 W 36th St, Baltimore, MD, 21211",-76.636515,39.330553,MH,6 - 12
+429,Vivien T. Thomas Medical Arts Academy,"100 N Calhoun St, Baltimore, MD, 21223",-76.639723,39.289586,H,9 - 12
+430,Augusta Fells Savage Institute of Visual Arts,"1500 Harlem Ave, Baltimore, MD, 21217",-76.642934,39.296456,H,9 - 12
+431,Maritime Industries Academy,"5001 Sinclair Ln, Baltimore, MD, 21206",-76.549259,39.322015,H,9 - 12
+432,Coppin Academy,"2500 W North Ave, Baltimore, MD, 21216",-76.657204,39.309705,H,9 - 12
+433,Re.issance Academy,"1301 McCulloh St, Baltimore, MD, 21217",,,H,9 - 12
+450,Frederick Douglass High,"2301 Gwynns Falls Pky, Baltimore, MD, 21217",,,H,9 - 12
+454,Carver Vocatio.l-Technical High,"2201 Presstman St, Baltimore, MD, 21216",,,H,9 - 12
+480,Baltimore City College,"3220 The Alameda, Baltimore, MD, 21218",,,H,9 - 12
+734,Middle Alter.tive Program at Lombard,"1601 E Pratt St, Baltimore, MD, 21231",,,M,6 - 8
+854,Career Academy,"101 W 24th St, Baltimore, MD, 21218",,,H,11 - 12
+855,Success Academy,"200 E North Ave, Baltimore, MD, 21202",,,MH,9 - 12
+858,Youth Opportunity,"1510 W Lafayette Ave, Baltimore, MD, 21217",,,H,9 - 12
+859,Alter.tive Elementary School,"3301 Carlisle Ave, Baltimore, MD, 21216",,,E,K - 5
+884,Eager Street Academy,"401 E Eager St, Baltimore, MD, 21202",,,MH,6 - 12

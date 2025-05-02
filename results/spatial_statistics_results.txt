@@ -1,0 +1,28 @@
+SPATIAL ANALYSIS OF FAST-FOOD DISTRIBUTION IN BALTIMORE CITY
+==========================================================
+
+Data Summary:
+Number of census tracts analyzed: 199 
+Total fast-food locations in Baltimore City: 823 
+Mean fast-food locations per tract: 4.14 
+Maximum fast-food locations in a tract: 84 
+
+=== Global Moran's I ===
+Moran's I statistic: 0.2615 
+Expected value: -0.0051 
+Variance: 0.0012 
+p-value: 0 
+
+=== Semivariogram model (spherical) ===
+Nugget:  73.75 
+Partial sill:  0 
+Range:  6856  meters
+
+=== Significant SaTScan Clusters ===
+Cluster 1: p-value = 0.0010, Cases = 301, Expected = 72.77
+Cluster 2: p-value = 0.0010, Cases = 84, Expected = 40.43
+Cluster 3: p-value = 0.0010, Cases = 24, Expected = 6.55
+
+=== LISA Cluster Summary ===
+High-High : 11 tracts
+Not significant : 188 tracts
